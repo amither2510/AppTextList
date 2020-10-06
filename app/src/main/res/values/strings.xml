@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="user_name">user_name</string>
+    <string name="user_email">user_email</string>
+</resources>
